@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ENSA</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <img src="https://montadanet.com/wp-content/uploads/2022/07/ensa-logo-color.png" alt="ENSA Logo" id="logo">
+    </header>
+    <main>
+        <h1>ENSA Page</h1>
+        <div class="buttons">
+            <button id="mathsBtn">MATHS</button>
+            <button id="pcBtn">PC</button>
+        </div>
+    </main>
+    <script src="script.js"></script>
+</body>
+</html>
